@@ -1,6 +1,6 @@
 package com.learning.java8.learn.starter;
 
-public class AnonymousToLamda {
+public class EX_0002_AnonymousToLamda {
 
 	public static void main(String[] args) {
 

@@ -1,0 +1,3 @@
+map                                |  function         | apply
+filter                             |  predicate        | test  
+reduce                             |  BinarayOperator  | apply

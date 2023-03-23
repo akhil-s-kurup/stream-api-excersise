@@ -3,7 +3,7 @@ package com.learning.java8.learn.starter;
 import java.util.Arrays;
 import java.util.List;
 
-public class FilterStream {
+public class EX_0003_FilterStream {
 	
 	
 	public static void main(String[] args) {

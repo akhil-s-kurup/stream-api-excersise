@@ -1,6 +1,6 @@
 package com.learning.java8.learn.starter;
 
-public class AnonymousExcersise {
+public class EX_0001_AnonymousExcersise {
 	
 	public static void main(String[] args) {
 		new Student() {

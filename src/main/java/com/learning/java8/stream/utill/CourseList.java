@@ -8,11 +8,11 @@ public class CourseList {
 	public static List<Course> getCources()
 	{
 		List courseList=new ArrayList();
-		courseList.add(new Course("Malayalam",99));
-		courseList.add(new Course("English",95));
-		courseList.add(new Course("Hindi",94));
-		courseList.add(new Course("Tamil",93));
-		courseList.add(new Course("Thelungu",92));
+		courseList.add(new Course("Malayalam",99,"EC"));
+		courseList.add(new Course("English",95,"EC"));
+		courseList.add(new Course("Hindi",94,"EC"));
+		courseList.add(new Course("Tamil",93,"CS"));
+		courseList.add(new Course("Thelungu",92,"CS"));
 		return courseList;
 	}
 	
